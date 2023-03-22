@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LOTERIAS CAIXA</string>
+    <string name="btn_generate">GERAR NÚMEROS PARA APOSTAR</string>
+    <string name="hint">INFORME UM NÚMERO ENTRE 6 E 15!</string>
+</resources>
